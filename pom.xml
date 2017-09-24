@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>Mini app</name>
-	<url>http://github.com<url>
+	<url>http://github.com</url>
 	<description>Application de base</description>
 	
 	<dependencies>

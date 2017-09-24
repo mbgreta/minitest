@@ -1,4 +1,4 @@
-package fr.dawan.test.mvn1;
+package com.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

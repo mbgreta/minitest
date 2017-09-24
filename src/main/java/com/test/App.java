@@ -1,4 +1,4 @@
-package fr.dawan.test.mvn1;
+package com.test;
 
 /**
  * Hello world!
